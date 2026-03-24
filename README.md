@@ -1,3 +1,7 @@
+> Built as part of the ArvyaX ML Internship Assignment — Team ArvyaX · RevoltronX
+> An end-to-end emotional intelligence pipeline that understands user state,
+> predicts intensity, and recommends wellness actions in real time.
+
 # ArvyaX ML Internship Assignment
 ### Team ArvyaX · RevoltronX
 ### Theme: From Understanding Humans → To Guiding Them
